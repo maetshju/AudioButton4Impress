@@ -17,11 +17,11 @@ Download the `impress_audio_button.bas` file by whatever means you like (e.g., c
 
 In LibreOffice Impress, go to "Tools > Macros > Edit Macros...".
 
-[!Tool menu](imgs/tool_menu.png)
+![Tool menu](imgs/tool_menu.png)
 
 In the dialog that appears, go to "File > Import BASIC...".
 
-[!Import menu](imgs/import.png)
+![Import menu](imgs/import.png)
 
 Choose the `.bas` file that you downloaded earlier. You will now have the text of the macro loaded in. Save the macro, and close the window.
 
@@ -29,7 +29,7 @@ Choose the `.bas` file that you downloaded earlier. You will now have the text o
 
 Click on "Tools > Customize..." in the main Impress window.
 
-[!Customize menu](imgs/customize.png)
+![Customize menu](imgs/customize.png)
 
 1. In the left-hand column of menu items, select the "Macros" category.
 2. Search for "Audio" in the search bar and click on the "AudioButton" result that appears.
@@ -38,7 +38,7 @@ Click on "Tools > Customize..." in the main Impress window.
 5. Optional: You can scroll down to the bottom of the items in the right-hand side and then drag the "AudioButton" option to where you would like for it to appear in the menu.
 6. Optional: You can click "Modify > Rename..." to change the name the macro shows up as. I like "Audio Button..." to match the conventions of the menu.
 
-[!Adding the macro to the "Insert" menu.](imgs/insert_macro)
+![Adding the macro to the "Insert" menu.](imgs/insert_macro)
 
 You can, of course, add the macro to other menus if you would like by choosing a different menu in step 4.
 
@@ -46,7 +46,7 @@ You can, of course, add the macro to other menus if you would like by choosing a
 
 You can use the macro by clicking on it in the "Insert" menu. You will be prompted to choose a file, and then a gray rectangle will appear in the upper-left corner.
 
-[!Button example](imgs/button.png)
+![Button example](imgs/button.png)
 
 Drag this button wherever you like. You can change the text, size, color, etc. as desired since it is just a regular shape object.
 
