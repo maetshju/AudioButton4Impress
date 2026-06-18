@@ -11,7 +11,7 @@ The macro will:
 
 ## Installation
 
-<details><summary Unfold />Download the `impress_audio_button.bas` file by whatever means you like (e.g., cloning the repo, clicking on it and downloading from the "Raw" view, copying and pasting into a file you save with the same name, etc.).
+<details><summary> Unfold </summary>Download the `impress_audio_button.bas` file by whatever means you like (e.g., cloning the repo, clicking on it and downloading from the "Raw" view, copying and pasting into a file you save with the same name, etc.).
 
 ### Importing the macro
 
@@ -62,7 +62,7 @@ To change the sound, right click on the button and choose the "Interaction..." m
 
 ## Caveats
 
-<details><summary Unfold />
+<details><summary> Unfold </summary>
 
 Since this macro is a workaround, there are some limitations.
 
