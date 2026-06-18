@@ -11,7 +11,7 @@ The macro will:
 
 ## Installation
 
-Download the `impress_audio_button.bas` file by whatever means you like (e.g., cloning the repo, clicking on it and downloading from the "Raw" view, copying and pasting into a file you save with the same name, etc.).
+<details><summary Unfold />Download the `impress_audio_button.bas` file by whatever means you like (e.g., cloning the repo, clicking on it and downloading from the "Raw" view, copying and pasting into a file you save with the same name, etc.).
 
 ### Importing the macro
 
@@ -57,7 +57,12 @@ To play the sound, start a presentation. Then, when you left-click on the sound,
 To change the sound, right click on the button and choose the "Interaction..." menu. In the 
 "Audio" section, use the "Browse" button to choose a new file or type the filename into the textbox.
 
+</details>
+
+
 ## Caveats
+
+<details><summary Unfold />
 
 Since this macro is a workaround, there are some limitations.
 
@@ -74,3 +79,5 @@ Then, you can edit the file paths for the audio objects to be relative to the pr
 ### No controls for audio
 
 There are no media controls for the audio. As such, you cannot see how much of the audio is left or scrub to find specific moments in the file. You can halt playback by changing slides, but that is the only real control that you have over the audio.
+
+</details>
