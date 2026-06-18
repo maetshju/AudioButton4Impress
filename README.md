@@ -9,9 +9,11 @@ The macro will:
 3. add the 〈♫〉 symbol as its text
 4. link the audio file to the rectangle and play when clicked during a presentation
 
+![Sample of button](imgs/sample.png)
+
 ## Installation
 
-<details><summary> Unfold </summary>Download the `impress_audio_button.bas` file by whatever means you like (e.g., cloning the repo, clicking on it and downloading from the "Raw" view, copying and pasting into a file you save with the same name, etc.).
+<details><summary> Reveal </summary>Download the `impress_audio_button.bas` file by whatever means you like (e.g., cloning the repo, clicking on it and downloading from the "Raw" view, copying and pasting into a file you save with the same name, etc.).
 
 ### Importing the macro
 
@@ -62,7 +64,7 @@ To change the sound, right click on the button and choose the "Interaction..." m
 
 ## Caveats
 
-<details><summary> Unfold </summary>
+<details><summary> Reveal </summary>
 
 Since this macro is a workaround, there are some limitations.
 
