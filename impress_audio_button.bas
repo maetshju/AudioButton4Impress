@@ -2,7 +2,7 @@
 Dim size As New com.sun.star.awt.Size
 
 	picker = createUnoService("com.sun.star.ui.dialogs.FilePicker")
-	picker.AppendFilter("Common audio formats (*.wav, *.mp3, *.flac, *.aiff, *.aac)", "*.wav; *.mp3; *.flac; *.aiff; *.aac")
+	picker.AppendFilter("Common audio formats (*.wav, *.mp3, *.flac, *.aiff, *.aac, *.ogg)", "*.wav; *.mp3; *.flac; *.aiff; *.aac; *.ogg")
 	picker.AppendFilter("All files", "*")
 	if picker.execute() then
     	sound_path = convertFromURL(picker.SelectedFiles(0))
