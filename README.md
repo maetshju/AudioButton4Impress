@@ -72,11 +72,9 @@ Since this macro is a workaround, there are some limitations.
 
 Impress will **not** embed the audio into the presentation, unlike PowerPoint. You will need to have the audio files accessible at the file paths you specified when creating the audio button.
 
-If you are using the same comptuer to present as you used to create the slideshow, this should not be a problem if the file locations do not change.
+If you are using the same comptuer to present as you used to create the slideshow, this should not be a problem if the file locations do not change. 
 
-If you cannot guarantee that the file paths will remain consistent, one workaround is to have the audio files in a folder that is in the same folder as the slideshow. E.g., the slideshow is in "/home/matt/presentation", and the audio is in "/home/matt/presentation/audio".
-
-Then, you can edit the file paths for the audio objects to be relative to the presentation. E.g., a sound called "sound1.wav" would be listed as "audio/sound1.wav" instead of "/home/matt/presentation/audio/sound1.wav".
+If you cannot guarantee that the file paths will remain consistent, the only workaround is to re-select the audio for each of the buttons before presenting. A future release may include another macro script to perform this using relative paths.
 
 ### No controls for audio
 
