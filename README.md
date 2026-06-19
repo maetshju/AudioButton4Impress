@@ -82,4 +82,8 @@ Then, you can edit the file paths for the audio objects to be relative to the pr
 
 There are no media controls for the audio. As such, you cannot see how much of the audio is left or scrub to find specific moments in the file. You can halt playback by changing slides, but that is the only real control that you have over the audio.
 
+### Audio formats
+
+The default filter for the file chooser only shows files with one of these extensions: .wav, .mp3, .flac, .aiff, .aac, or .ogg. Any other file will need to be selected by changing the filter to show all files.
+
 </details>
